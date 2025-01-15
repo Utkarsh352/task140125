@@ -1,4 +1,4 @@
-package entities
+package model
 
 type Token struct {
 	ID    string
