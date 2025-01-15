@@ -151,9 +151,4 @@ To test the program:
 - **Token Expiry**: Add a feature to expire tokens after a certain duration of inactivity.
 - **Database Integration**: Store tokens and usage data in a database for persistence.
 - **Web Interface**: Provide a web-based UI for interacting with the token manager.
-
----
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).  
+  
