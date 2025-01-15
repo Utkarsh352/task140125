@@ -157,7 +157,3 @@ To test the program:
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).  
-
----
-
-Feel free to customize the `README.md` further if you make additional changes to the project!
